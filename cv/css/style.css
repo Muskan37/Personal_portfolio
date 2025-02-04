@@ -3,17 +3,17 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    max-width: 1800px;
-    min-width: 1800px;
+    max-width: 1200px;
+    min-width: 1200px;
 }
 
 header {
     background-color: #001b36;
     color: #fff;
     text-align: center;
-    padding: 50px 11px 40px 11px;
+    padding: 50px 20px 40px 8px;
     width: 49%;
-    margin: 30px auto 0px auto;
+    margin: 30px 0px 0px auto;
     font-size: 20px;
     box-shadow: -3px 0px 10px rgba(0, 0, 0, 0.1), 3px 0px 10px rgba(0, 0, 0, 0.1);
 }
@@ -21,7 +21,7 @@ header {
 .content {
     background: #fff;
     padding: 20px;
-    margin: 0px auto 30px auto;
+    margin: 0px 0px 30px auto;
     width: 48%;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     text-align: left;
